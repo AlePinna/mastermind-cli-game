@@ -1,4 +1,4 @@
-package mastermind;
+package eu.alessandropinna.mastermind;
 
 interface InterfacciaMultilingua {
 

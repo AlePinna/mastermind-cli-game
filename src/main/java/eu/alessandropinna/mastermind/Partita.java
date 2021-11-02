@@ -1,4 +1,4 @@
-package mastermind;
+package eu.alessandropinna.mastermind;
 
 import java.util.Scanner;
 
